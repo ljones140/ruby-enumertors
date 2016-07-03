@@ -1,6 +1,9 @@
 # Ruby Enumerators
 ### Practicing creating enumerators in ruby
-used these resources for help:  
+This repo is for my own personal practice of making ruby enumerators. There are
+several enumerable examples.  
+
+I used these resources for help:  
 * [Stop including Enumerable](http://blog.arkency.com/2014/01/ruby-to-enum-for-enumerator/)  
 * [Ruby Tapas enumerator](http://devblog.avdi.org/2013/09/10/rubytapas-freebie-enumerator/)  
 
