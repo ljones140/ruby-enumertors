@@ -1,5 +1,4 @@
 class Hash
-
   def leaf_values
     each_leaf.to_a
   end

@@ -1,5 +1,3 @@
-# returns an enumerator of infinite even numbers
-
 class EvenNumbers
   def self.numbers
     return enum_for(:numbers) unless block_given?
